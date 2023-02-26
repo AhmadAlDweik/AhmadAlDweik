@@ -1,3 +1,12 @@
+- 👋 Hi, I’m Ahmad Al-Dweik
+- 👀 I’m interested in Mobile Development
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+Developer.;I'm+a+Software+Engineer." /></a>
+</p> 
+
+
+<hr>
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmadAlDweik&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
