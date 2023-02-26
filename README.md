@@ -10,7 +10,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AhmadAlDweik&theme=android-dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAlDweik&theme=react&show_icons=true&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAlDweik&theme=merko&show_icons=true&hide=contribs,prs,issues)
 
 
 
